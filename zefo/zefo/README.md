@@ -35,9 +35,10 @@ curl -s -XPOST 'http://localhost:9200/_bulk' --data-binary @products.json
 
 
 
-## pre-requests
+## prerequisites:
 
-project requests requests library.
+project requires requests library.
+
 pip install requests 
 
 
